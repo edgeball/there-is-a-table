@@ -1,0 +1,1 @@
+var e=`https://edgeball.itch.io/there-is-a-table`;export{e as t};
